@@ -56,7 +56,7 @@ Bazaar is a modern eCommerce application built using Java Spring Boot for the ba
     ```bash
     ng serve
     ```
-   for react
+   for React :
    ```bash
     npm start
     ```
