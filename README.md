@@ -58,7 +58,7 @@ Bazaar is a modern eCommerce application built using Java Spring Boot for the ba
     ```
    for React :
    ```bash
-    npm start
+    npm run
     ```
    
 8. Access the application in your browser at http://localhost:4200 for angular
